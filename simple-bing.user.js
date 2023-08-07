@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         simple bing
+// @name:zh-CN   移除必应搜索外链重定向
 // @namespace    https://github.com/majia365/tm-scripts
 // @version      0.1
 // @description  remove redirection from bing
